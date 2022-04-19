@@ -1,0 +1,107 @@
+.cronologia{
+    background-color: black;
+    color: white;
+    margin-left:156px;
+    margin-right: 156px;
+    padding-top:151px;
+    padding-bottom:113px;
+    max-height: 700px !important;
+}
+.border-impar {
+    border-top: 2.5px solid white;
+    border-left: 2.5px solid white;
+    height:100%;
+    
+
+}
+.border-par {
+    border-top: 2.5px solid white;
+    border-right: 2.5px solid white;
+    height:100%;
+    
+
+}
+.border-impar-solo {
+    border-left: 2.5px solid white;
+    height:100%;
+    
+
+}
+.height90{
+    height:90px
+}
+.border-par-solo {
+    border-right: 2.5px solid white;
+    height:100%;
+    
+
+}
+.border-first {
+    border-top: 2.5px solid white;
+
+    border-right: 3.25px solid white;
+    height:100%;
+
+}
+.border-global {
+    border: 5px solid white;
+    height:75px;
+    width:75px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.marginContainerCol{
+    margin-right:-1.25px; 
+    margin-left:-1.25px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.paddingImages {
+    margin-top:10rem;
+}
+.contenedorFull {
+   
+    max-height:800px !important;
+    overflow-y:auto;
+
+    width: 95%;
+    display: flex;
+    text-align: center;
+}
+.contenedorFull::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 4px;
+  }
+.contenedorFull::-webkit-scrollbar-thumb {
+    background-color:white;
+    border:2px solid white;
+    border-radius: 10px;
+
+}  
+.contenedorFull::-webkit-scrollbar-track {
+    background-color:#443d3d;
+
+    border-radius: 10px;
+}  
+.contenedorChild {
+    max-height:800px;
+}
+.bgDark{
+    background-color: black;
+}
+.imagenes{
+    border-radius: 50%;
+}
+
+
+.rounded-circle{
+margin-bottom: 50px;
+}
+.text-center{
+padding-top: 20px;
+}
+
+.paddingContainerCronologia{
+    height:80%;
+    padding-top:150px;
+}

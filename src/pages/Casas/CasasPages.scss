@@ -1,0 +1,55 @@
+.casas{
+    background-color: black;
+display:flex;
+margin-left:156px;
+margin-right: 156px;
+padding-top:151px;
+padding-bottom:113px;
+
+}
+.paddingContainerCasas {
+    height:80%;
+    padding-top:150px;
+}
+
+.imagenGaleria {
+    width:248px;
+    height:320px;
+    
+}
+
+.contenedorFull {
+   
+    height:800px;
+    overflow-y:auto;
+    height:100% !important;
+    width: 95%;
+    
+
+}
+.contenedorFull::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 4px;
+    
+  }
+.contenedorFull::-webkit-scrollbar-thumb {
+    background-color:white;
+    border:2px solid white;
+    border-radius: 10px;
+    
+
+}  
+.contenedorFull::-webkit-scrollbar-track {
+    background-color:#443d3d;
+
+    border-radius: 10px;
+}  
+.contenedorChild {
+    max-height:800px;
+    
+
+}
+.bgDark{
+    background-color: black;
+    
+}
