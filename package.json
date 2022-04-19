@@ -2,6 +2,8 @@
   "name": "tronos",
   "version": "0.1.0",
   "private": true,
+  "build": "react-scripts build"
+,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
@@ -43,4 +45,5 @@
   "devDependencies": {
     "node-sass": "^7.0.1"
   }
+
 }

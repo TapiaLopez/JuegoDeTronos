@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0679e630.css",
+    "main.js": "/static/js/main.12d4cb88.js",
+    "static/js/787.2df878f1.chunk.js": "/static/js/787.2df878f1.chunk.js",
+    "static/media/144539.jpg": "/static/media/144539.c7b249d27c9776290e95.jpg",
+    "static/media/Game_of_Thrones.ttf": "/static/media/Game_of_Thrones.71fa190a8a1a34123fa1.ttf",
+    "index.html": "/index.html",
+    "main.0679e630.css.map": "/static/css/main.0679e630.css.map",
+    "main.12d4cb88.js.map": "/static/js/main.12d4cb88.js.map",
+    "787.2df878f1.chunk.js.map": "/static/js/787.2df878f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0679e630.css",
+    "static/js/main.12d4cb88.js"
+  ]
+}
